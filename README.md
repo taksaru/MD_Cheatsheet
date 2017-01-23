@@ -33,7 +33,7 @@ code(){
   - is
     - a
       - staggered
-        -list
+        - list
 
 
  Table | Values
@@ -81,7 +81,7 @@ code(){
   - is
     - a
       - staggered
-        -list
+        - list
 
  Table | Values
  ----- | ----- 
