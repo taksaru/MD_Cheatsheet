@@ -34,8 +34,8 @@ code(){
 }
 \`\`\`
 ```
-**ignore above slashes**
-
+- ignore above slashes
+- language is optional and more of a github thing
 ```
 *italics*
 
