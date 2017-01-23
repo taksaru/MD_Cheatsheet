@@ -33,7 +33,10 @@ code(){
     code_block()
 }
 \`\`\`
+```
+**ignore above slashes**
 
+```
 *italics*
 
 **bold**
