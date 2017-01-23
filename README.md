@@ -28,19 +28,25 @@ code(){
 
 The above in raw format
 
-```md
+<code>
 # Header
 
 ## Lesser Header
 
-\```language
+```language
 code(){
     code_block()
 }
-\```
 ```
-- ignore above slashes
+
+```
+code(){
+    code_block()
+}
+```
+</code>
 - language is not in jupyter and is used for Github README files
+- Use second version instead
 ```
 *italics*
 
