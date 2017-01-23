@@ -23,7 +23,7 @@ code(){
 
 
  Table | Values
- - | - 
+ ----- | ----- 
  Hello | World
 
 The above in raw format
