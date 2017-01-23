@@ -38,20 +38,20 @@ The above in raw format
 # Header
 
 ## Lesser Header
-```
-<code>
-"```language
-code(){
-    code_block()
-}
-```
 
-```
+\```language
 code(){
     code_block()
 }
-```"
-</code>
+\```
+
+\```
+code(){
+    code_block()
+}
+\```
+```
+- ignore above slashes (used to keep backticks visible)
 - language is not in jupyter and is used for Github README files
   - `js` was used in the earlier case, but other languages work as well
 - Use second version instead
