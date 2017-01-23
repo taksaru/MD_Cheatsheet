@@ -21,10 +21,10 @@ code(){
 - a
 - list
 
-|--|--|
-|Table|Values|
-|Hello|World|
-|-|-|
+
+Table|Values
+-|-
+Hello|World
 
 The above in raw format
 
