@@ -4,7 +4,13 @@
 
 ## Lesser Header
 
-```language
+```js
+code(){
+    code_block()
+}
+```
+
+```
 code(){
     code_block()
 }
