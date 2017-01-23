@@ -40,7 +40,7 @@ code(){
 \```
 ```
 - ignore above slashes
-- language is optional and more of a github thing
+- language is not in jupyter and is used for Github README files
 ```
 *italics*
 
