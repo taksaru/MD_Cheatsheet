@@ -28,11 +28,11 @@ The above in raw format
 
 ## Lesser Header
 
-```language
+\`\`\`language
 code(){
     code_block()
 }
-```
+\`\`\`
 
 *italics*
 
