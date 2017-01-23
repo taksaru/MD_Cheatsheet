@@ -28,11 +28,11 @@ The above in raw format
 
 ## Lesser Header
 
-\`\`\`language
+\```language
 code(){
     code_block()
 }
-\`\`\`
+\```
 ```
 - ignore above slashes
 - language is optional and more of a github thing
