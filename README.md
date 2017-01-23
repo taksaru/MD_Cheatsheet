@@ -54,7 +54,7 @@ code(){
 - list
 
  Table | Values
- - | - 
+ ----- | ----- 
  Hello | World
 ```
-- Spaces are important for tables
+- Spaces at start are important for tables
