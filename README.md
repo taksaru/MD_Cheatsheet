@@ -29,6 +29,12 @@ code(){
 - a
 - list
 
+- this
+  - is
+    - a
+      - staggered
+        -list
+
 
  Table | Values
  ----- | ----- 
@@ -53,7 +59,7 @@ code(){
 }
 /```
 ```
-- ignore slashes (used to keep backticks visible
+- ignore slashes (used to keep backticks visible)
 - language is not in jupyter and is used for Github README files
   - `js` was used in the earlier case, but other languages work as well
 - Use second version instead
@@ -70,6 +76,12 @@ code(){
 - is
 - a
 - list
+
+- this
+  - is
+    - a
+      - staggered
+        -list
 
  Table | Values
  ----- | ----- 
